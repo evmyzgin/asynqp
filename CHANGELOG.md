@@ -1,6 +1,10 @@
 What's new in `asynqp`
 ======================
 
+v0.6
+----
+* Add support for Python up to 3.7.
+* Remove support for Python 3.4.
 
 v0.5
 ----
